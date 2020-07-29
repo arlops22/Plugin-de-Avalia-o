@@ -1,0 +1,15 @@
+.wp-list-table .column-rate {
+    width: 20%;
+}
+
+.wp-list-table .column-display_name {
+    width: 40%;
+}
+
+.wp-list-table .column-message {
+    width: 60%;
+}
+
+.wp-list-table .column-message p {
+    font-size: 1.125em;
+}
